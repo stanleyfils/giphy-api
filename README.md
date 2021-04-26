@@ -2,4 +2,4 @@ Practice using hooks with API integration, pagination, loading indicator, and er
 
 ---
 
-## permalink: /index.html
+
